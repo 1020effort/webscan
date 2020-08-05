@@ -1,0 +1,12 @@
+.git
+.git/HEAD
+upload
+uploads
+Upload
+Uploads
+test
+tmp
+Tmp
+TMP
+secure
+robots

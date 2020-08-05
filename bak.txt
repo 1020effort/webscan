@@ -1,0 +1,7 @@
+.bak
+.BAK
+.zip
+.rar
+.ZIP
+.RAR
+
